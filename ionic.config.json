@@ -1,0 +1,8 @@
+{
+  "name": "holaionic",
+  "app_id": "4b633980",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
